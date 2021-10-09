@@ -1,5 +1,7 @@
 # premier-league
 
+Live version [HERE](https://brave-khorana-b16e37.netlify.app/)
+
 ## Project setup
 ```
 npm install
